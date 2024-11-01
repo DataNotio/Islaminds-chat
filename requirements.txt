@@ -1,0 +1,12 @@
+pydantic
+fastapi
+langchain
+langchain-community
+pypdf
+langchain[docarray]
+fastapi[standard]
+openai
+docarray
+tiktoken
+PyPDF2
+langchain-openai
